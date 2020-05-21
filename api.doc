@@ -1,0 +1,2 @@
+project setup :-
+this api is build on django rest framework which is used to schedule your task if the user provide it the current date and time 
